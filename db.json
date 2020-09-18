@@ -91,54 +91,6 @@
             "type": "debet"
         },
         {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1074",
-            "bankType": "Tinkoff",
-            "phone": "+7 *** *** 17 17",
-            "amount": 2333,
-            "date": "2020-08-24T10:00:30",
-            "type": "credit"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1075",
-            "bankType": "Alfa",
-            "phone": "+7 *** *** 99 66",
-            "amount": 390,
-            "date": "2020-08-16T09:09:09",
-            "type": "debet"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1076",
-            "bankType": "Tinkoff",
-            "phone": "+7 *** *** 00 55",
-            "amount": 1455,
-            "date": "2020-08-15T11:16:28",
-            "type": "credit"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1077",
-            "bankType": "Uralsib",
-            "phone": "+7 *** *** 23 00",
-            "amount": 587,
-            "date": "2020-07-26T11:16:28",
-            "type": "credit"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1078",
-            "bankType": "Sber",
-            "phone": "+7 *** *** 13 12",
-            "amount": 511,
-            "date": "2020-07-24T11:16:28",
-            "type": "credit"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1080",
-            "bankType": "Alfa",
-            "phone": "+7 *** *** 99 02",
-            "amount": 8430,
-            "date": "2020-06-16T09:09:09",
-            "type": "debet"
-        },
-        {
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1081",
             "bankType": "Tinkoff",
             "phone": "+7 *** *** 00 71",
@@ -381,71 +333,6 @@
   },
   "int-list-2": {
     "items": [
-      {
-        "transactionId": "16c5aef1b-477f-48a9-a17d-abc900de2074",
-        "bankType": "Tinkoff",
-        "phone": "+7 *** *** 17 57",
-        "amount": 23333,
-        "date": "2017-09-18T10:00:30",
-        "type": "credit"
-      },
-      {
-        "transactionId": "16c5aef1b-477f-48a9-a17d-abc900de2075",
-        "bankType": "Alfa",
-        "phone": "+7 *** *** 99 36",
-        "amount": 3940,
-        "date": "2017-09-18T09:09:09",
-        "type": "debet"
-      },
-      {
-        "transactionId": "16c5aef1b-477f-48a9-a17d-abc900de2076",
-        "bankType": "Tinkoff",
-        "phone": "+7 *** *** 00 55",
-        "amount": 455,
-        "date": "2017-09-18T11:16:28",
-        "type": "credit"
-      },
-      {
-        "transactionId": "16c5aef1b-477f-48a9-a17d-abc900de2066",
-        "bankType": "Sber",
-        "phone": "+7 *** *** 00 87",
-        "amount": 48012333,
-        "date": "2017-09-17T20:10:30",
-        "type": "credit"
-      },
-      {
-        "transactionId": "16c5aef1b-477f-48a9-a17d-abc900de1067",
-        "bankType": "Tinkoff",
-        "phone": "+7 *** *** 02 87",
-        "amount": 333,
-        "date": "2017-09-17T14:34:30",
-        "type": "credit"
-      },
-      {
-        "transactionId": "16c5aef1b-477f-48a9-a17d-abc900de1068",
-        "bankType": "Uralsib",
-        "phone": "+7 *** *** 55 87",
-        "amount": 2333,
-        "date": "2017-09-17T11:20:30",
-        "type": "credit"
-      },
-
-      {
-        "transactionId": "16c5aef1b-477f-48a9-a17d-abc900de1069",
-        "bankType": "Tinkoff",
-        "phone": "+7 *** *** 67 87",
-        "amount": 48012333,
-        "date": "2017-09-17T10:00:30",
-        "type": "credit"
-      },
-      {
-        "transactionId": "16c5aef1b-477f-48a9-a17d-abc900de1070",
-        "bankType": "Alfa",
-        "phone": "+7 *** *** 99 12",
-        "amount": 84390,
-        "date": "2017-09-16T09:09:09",
-        "type": "debet"
-      },
       {
         "transactionId": "16c5aef1b-477f-48a9-a17d-abc900de1071",
         "bankType": "Tinkoff",
