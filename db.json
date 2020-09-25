@@ -53,26 +53,6 @@
             "type": "credit"
         },
         {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1070",
-          "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "bankType": "alfabank",
-            "phone": "+7 *** *** 99 12",
-            "amount": 84390,
-            "date": "2020-09-16T09:09:09",
-            "type": "debet"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1071",
-          "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "bankType": "tinkoff",
-            "phone": "+7 *** *** 00 01",
-            "amount": 455,
-            "date": "2020-09-16T11:16:28",
-            "type": "credit"
-        },
-        {
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1081",
           "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
             "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
