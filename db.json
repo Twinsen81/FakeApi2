@@ -32,26 +32,6 @@
             "type": "credit"
         },
              {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de2066",
-               "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "bankType": "Sber",
-            "phone": "+7 *** *** 00 87",
-            "amount": 48012333,
-            "date": "2020-09-17T20:10:30",
-            "type": "credit"
-        },
-             {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1067",
-               "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "bankType": "Tinkoff",
-            "phone": "+7 *** *** 02 87",
-            "amount": 333,
-            "date": "2020-09-17T14:34:30",
-            "type": "credit"
-        },
-             {
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1068",
                "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
             "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
@@ -91,26 +71,6 @@
             "amount": 455,
             "date": "2020-09-16T11:16:28",
             "type": "credit"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1072",
-          "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "bankType": "ubrir",
-            "phone": "+7 *** *** 23 23",
-            "amount": 5,
-            "date": "2020-08-26T11:16:28",
-            "type": "debet"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1073",
-          "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "bankType": "tochka",
-            "phone": "+7 *** *** 13 21",
-            "amount": 59011,
-            "date": "2020-08-24T11:16:28",
-            "type": "debet"
         },
         {
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1081",
@@ -198,26 +158,6 @@
         "type": "debet"
       },
       {
-        "transactionId": "15c5aef1b-477f-48a9-a17d-abc900de1073",
-        "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-        "bankType": "Sber",
-        "phone": "+7 *** *** 13 21",
-        "amount": 59011,
-        "date": "2018-08-24T11:16:28",
-        "type": "debet"
-      },
-      {
-        "transactionId": "15c5aef1b-477f-48a9-a17d-abc900de1074",
-        "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-        "bankType": "Tinkoff",
-        "phone": "+7 *** *** 17 17",
-        "amount": 2333,
-        "date": "2018-08-24T10:00:30",
-        "type": "credit"
-      },
-      {
         "transactionId": "15c5aef1b-477f-48a9-a17d-abc900de1075",
         "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
             "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
@@ -235,16 +175,6 @@
         "phone": "+7 *** *** 00 55",
         "amount": 1455,
         "date": "2018-08-15T11:16:28",
-        "type": "credit"
-      },
-      {
-        "transactionId": "15c5aef1b-477f-48a9-a17d-abc900de1077",
-        "SbpTransactionId": "TX100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-            "SbpQrcId": "AD100026T7NJJ33I9DRPBVS3UFTUN4Q7",
-        "bankType": "Uralsib",
-        "phone": "+7 *** *** 23 00",
-        "amount": 587,
-        "date": "2018-07-26T11:16:28",
         "type": "credit"
       },
       {
